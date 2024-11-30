@@ -30,7 +30,6 @@ document.cookie = "21=232a2d; SameSite=Lax";
 
 Alternatively, you can switch the header and the page background colors:
 ```js
-```js
 document.cookie = "7=232a2d; SameSite=Lax";
 document.cookie = "j=141b1e; SameSite=Lax";
 document.cookie = "9=dadada; SameSite=Lax";
@@ -39,6 +38,16 @@ document.cookie = "8=b3b9b8; SameSite=Lax";
 document.cookie = "x=dadada; SameSite=Lax";
 document.cookie = "21=232a2d; SameSite=Lax";
 ```
+
+Another thing you can do is keep them both darker:
+```js
+document.cookie = "7=141b1e; SameSite=Lax";
+document.cookie = "j=141b1e; SameSite=Lax";
+document.cookie = "9=dadada; SameSite=Lax";
+document.cookie = "aa=b3b9b8; SameSite=Lax";
+document.cookie = "8=b3b9b8; SameSite=Lax";
+document.cookie = "x=dadada; SameSite=Lax";
+document.cookie = "21=232a2d; SameSite=Lax";
 ```
 
 ## Contribution
